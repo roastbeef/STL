@@ -10,7 +10,7 @@
       "generator": "Ninja",
       "inheritEnvironments": [ "msvc_x86" ],
       "installRoot": "${projectDir}\\out\\install\\${name}",
-      "variables": []
+      "variables": ["A"]
     },
     {
       "name": "x64",
